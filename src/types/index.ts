@@ -1,0 +1,1 @@
+export type StockStatus="Healthy"|"Low stock"|"Out of stock";export type Product={id:number,sku:string,name:string,category:string,warehouse:string,quantity:number,reorderLevel:number,value:number,trend:number};
